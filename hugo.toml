@@ -71,8 +71,8 @@ theme = "hugo-blog-awesome"
   description = ""
   # description = "Minimal Hugo blog theme with light and dark mode support"
   mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
-  tocOpen = false # set to true to open table of contents by default
+  toc = false # set to false to disable table of contents 'globally'
+  tocOpen = true # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
   # Will try to load 'assets/js/custom.js' and 'assets/js/custom-2.js'.
@@ -178,7 +178,7 @@ theme = "hugo-blog-awesome"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/Apocalypse-Watcher"
+url = "https://github.com/apocalypsewatcher"
 
 #[[params.socialIcons]]
 #name = "twitter"
