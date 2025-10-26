@@ -191,5 +191,9 @@ name = "github"
 url = "https://github.com/apocalypsewatcher"
 
 [[params.socialIcons]]
+name = "email"
+url = "mailto:solutionobscure@yahoo.com"
+
+[[params.socialIcons]]
 name = "Rss"
 url = "/index.xml"
