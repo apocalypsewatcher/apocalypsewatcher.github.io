@@ -57,10 +57,15 @@ theme = "hugo-blog-awesome"
     url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
+    pageRef="microblog"
+    name = 'Microblog'
+    url = '/microblog/'
+    weight = 30
+  [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 30
+    weight = 40
 
 [Languages.en-gb.params]
   sitename = "Apocalypse Watcher"
@@ -124,10 +129,15 @@ theme = "hugo-blog-awesome"
     url = '/posts/'
     weight = 20
   [[Languages.pt-br.menu.main]]
+    pageRef="microblog"
+    name = 'Microblog'
+    url = '/microblog/'
+    weight = 30
+  [[Languages.pt-br.menu.main]]
     pageRef="about"
     name = 'Sobre'
     url = '/about/'
-    weight = 30
+    weight = 40
 
 [Languages.pt-br.params]
   sitename = "Apocalypse Watcher"
