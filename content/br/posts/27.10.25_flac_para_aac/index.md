@@ -1,5 +1,5 @@
 ---
-title: Salvando espaço convertendo flac para m4a.
+title: Salvando espaço convertendo FLAC para M4A.
 date: 2025-10-27
 author: Apocalypse Watcher
 description: Shell script simples que converte flac para m4a economizando 80% de espaço em disco.

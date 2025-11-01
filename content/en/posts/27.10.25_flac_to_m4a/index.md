@@ -1,5 +1,5 @@
 ---
-Title: Saving Space by Converting FLAC to M4A
+Title: Saving space by converting FLAC to M4A
 Date: 2025-10-27
 Author: Apocalypse Watcher
 Description: Simple shell script that converts FLAC to M4A, saving 80% of disk space.
