@@ -10,4 +10,5 @@ Sabado, 25 Outubro 2025
 Espero que tudo esteja funcionando. :)
 {{< center >}}
 Segunda 10 Novembro 2025
+{{< /center >}}
 Ainda não morri, mas estou sem tempo.
