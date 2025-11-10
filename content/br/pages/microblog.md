@@ -4,7 +4,10 @@ description: 'Microblog'
 author: watcher
 ---
 {{< center >}}
-Sabado, 25 Outubro (10) 2025
+Sabado, 25 Outubro 2025
 {{< /center >}}
 É hoje que tudo começa.<br/>
 Espero que tudo esteja funcionando. :)
+{{< center >}}
+Segunda 10 Novembro 2025
+Ainda não morri, mas estou sem tempo.
